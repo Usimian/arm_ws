@@ -1,0 +1,15 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "cmake.configureOnOpen": false,
+
+    "remote.extensionKind": {
+        "ms-vscode.vscode-serial-monitor": [
+          "workspace"
+        ]
+      },
+}
