@@ -12,4 +12,5 @@
           "workspace"
         ]
       },
+      "ros.distro": "humble",
 }
